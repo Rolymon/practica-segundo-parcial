@@ -1,0 +1,15 @@
+/* En Boton.css */
+.boton {
+    background-color: rgb(13, 122, 126);
+    font-size: 33px;
+  }
+.rojo{
+    background-color: red;
+    font-size: 33px;
+}
+
+.verde{
+    background-color: greenyellow;
+
+    font-size: 33px;
+}
