@@ -1,4 +1,4 @@
-// En Boton.js
+
 import React from 'react';
 
 function Boton({ onClick, children }) {
