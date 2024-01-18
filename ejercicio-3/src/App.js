@@ -1,4 +1,4 @@
-// En App.js
+
 import React, { useState } from 'react';
 import Añadir from './componentes/Añadir';
 
