@@ -1,4 +1,4 @@
-// En Añadir.js
+
 import React, { useState } from 'react';
 
 function Añadir({ onAñadir, frases, onEliminarFrase }) {
